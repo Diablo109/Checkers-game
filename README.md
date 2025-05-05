@@ -1,2 +1,2 @@
-Hi this is a basic checkers game that i created while i wass learning new things .
+Hi this is a basic checkers game that i created while i was learning new things .
 hope you enjoy it.
